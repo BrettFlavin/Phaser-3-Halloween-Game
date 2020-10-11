@@ -79,15 +79,15 @@ This application was created in VS Code using HTML, JavaScript, and a little CSS
 
 Here are some example screenshots of the application running on an Android device:
 
-![screenshot1](screenshot1.png)
+![Halloween Game screenshot1](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/title_screenshot.png)
 
-![screenshot2](screenshot2.png)
+![Halloween Game screenshot2](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/level1_screenshot.png)
 
-![screenshot3](screenshot3.png)
+![Halloween Game screenshot3](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/level2_screenshot.png)
 
-![screenshot4](screenshot4.png)
+![Halloween Game screenshot4](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/level3_screenshot.png)
 
-![screenshot5](screenshot5.png)
+![Halloween Game screenshot5](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/level4_screenshot.png)
 
 <!------------->
 <!-- ROADMAP -->
