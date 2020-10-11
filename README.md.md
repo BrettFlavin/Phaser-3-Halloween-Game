@@ -97,8 +97,7 @@ Here are some example screenshots of the application running on an Android devic
 
 ## Roadmap
 
-See the [open issues](https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/issues) for a list of proposed features (and known issues).
 
 <!------------------>
 <!-- CONTRIBUTING -->
@@ -132,8 +131,7 @@ Author:
 <br />
 Brett R. Flavin - brettflavin@yahoo.com
 
-Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-](https://github.com/BrettFlavin/Phaser-3-Halloween-Game)
+Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween-Game](https://github.com/BrettFlavin/Phaser-3-Halloween-Game)
 
 <!---------------------->
 <!-- ACKNOWLEDGEMENTS -->
@@ -152,24 +150,13 @@ Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 <!----------------------------->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/BrettFlavin/Phaser-3-Halloween-Game
-
-?style=plastic
-[contributors-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BrettFlavin/Phaser-3-Halloween-Game
-?style=plastic
-[forks-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-/network/members
-[stars-shield]: https://img.shields.io/github/stars/BrettFlavin/Phaser-3-Halloween-Game
-?style=plastic
-[stars-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BrettFlavin/Phaser-3-Halloween-Game
-?style=plastic
-[issues-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-/issues
-[license-shield]: https://img.shields.io/github/license/BrettFlavin/Phaser-3-Halloween-Game
-.svg?style=plastic
-[license-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BrettFlavin/Phaser-3-Halloween-Game?style=plastic
+[contributors-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BrettFlavin/Phaser-3-Halloween-Game?style=plastic
+[forks-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game/network/members
+[stars-shield]: https://img.shields.io/github/stars/BrettFlavin/Phaser-3-Halloween-Game?style=plastic
+[stars-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BrettFlavin/Phaser-3-Halloween-Game?style=plastic
+[issues-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game/issues
+[license-shield]: https://img.shields.io/github/license/BrettFlavin/Phaser-3-Halloween-Game.svg?style=plastic
+[license-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game/LICENSE.txt
