@@ -179,7 +179,7 @@ class TitleScene extends Phaser.Scene {
         bgMusic.play();
         bgMusic.setLoop = true;
 
-        // create a menu from our custom class
+        // create a start menu from our custom class
         var menu = new SettingsMenu(this);
     }
 
