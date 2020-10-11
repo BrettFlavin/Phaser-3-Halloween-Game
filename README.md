@@ -81,13 +81,13 @@ Here are some example screenshots of the application running on an Android devic
 
 ![Halloween Game screenshot1](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.png)
 
-![Halloween Game screenshot2](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level1_screenshot.png)
+![Halloween Game screenshot2](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level1_screenshot.PNG)
 
-![Halloween Game screenshot3](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level2_screenshot.png)
+![Halloween Game screenshot3](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level2_screenshot.PNG)
 
-![Halloween Game screenshot4](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level3_screenshot.png)
+![Halloween Game screenshot4](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level3_screenshot.PNG)
 
-![Halloween Game screenshot5](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level4_screenshot.png)
+![Halloween Game screenshot5](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level4_screenshot.PNG)
 
 <!------------->
 <!-- ROADMAP -->
