@@ -77,17 +77,18 @@ This application was created in VS Code using HTML, JavaScript, and a little CSS
 
 ## Usage
 
-Here are some example screenshots of the application running on an Android device:
+The VS Code Live Server extension is used to launch and test the code quickly on a local development server. 
+Here are some example screenshots of the application running on a PC:
 
-![Halloween Game screenshot1](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.png)
+![Halloween Game title screenshot](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.PNG)
 
-![Halloween Game screenshot2](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level1_screenshot.PNG)
+![Halloween Game screenshot1](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level1_screenshot.png)
 
-![Halloween Game screenshot3](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level2_screenshot.PNG)
+![Halloween Game screenshot2](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level2_screenshot.PNG)
 
-![Halloween Game screenshot4](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level3_screenshot.PNG)
+![Halloween Game screenshot3](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level3_screenshot.PNG)
 
-![Halloween Game screenshot5](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level4_screenshot.PNG)
+![Halloween Game screenshot4](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level4_screenshot.PNG)
 
 <!------------->
 <!-- ROADMAP -->
