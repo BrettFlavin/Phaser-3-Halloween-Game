@@ -1,4 +1,4 @@
-<!-- INSTRUCTIONS - do a find a replace on "Phaser-3-Halloween_Game
+<!-- INSTRUCTIONS - do a find a replace on "Phaser-3-Halloween-Game
 " and replace with current GitHub repository name. -->
 
 <!--
@@ -22,7 +22,7 @@
 <!------------------>
 <br />
 <p align="center">
-  <a href="https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+  <a href="https://github.com/BrettFlavin/Phaser-3-Halloween-Game
   ">
     <img src="CoronaLogo.png" alt="Logo" width="180" height="180" alt="project logo">
   </a>
@@ -30,10 +30,10 @@
   <h3 align="center">README</h3>
 
   <p align="center">    
-    <a href="https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+    <a href="https://github.com/BrettFlavin/Phaser-3-Halloween-Game
     /issues">Report Bug</a>
     ·
-    <a href="https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+    <a href="https://github.com/BrettFlavin/Phaser-3-Halloween-Game
     /issues">Request Feature</a>
   </p>
 </p>
@@ -97,7 +97,7 @@ Here are some example screenshots of the application running on an Android devic
 
 ## Roadmap
 
-See the [open issues](https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+See the [open issues](https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 /issues) for a list of proposed features (and known issues).
 
 <!------------------>
@@ -132,8 +132,8 @@ Author:
 <br />
 Brett R. Flavin - brettflavin@yahoo.com
 
-Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween_Game
-](https://github.com/BrettFlavin/Phaser-3-Halloween_Game)
+Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween-Game
+](https://github.com/BrettFlavin/Phaser-3-Halloween-Game)
 
 <!---------------------->
 <!-- ACKNOWLEDGEMENTS -->
@@ -152,24 +152,24 @@ Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween_Game
 <!----------------------------->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/BrettFlavin/Phaser-3-Halloween_Game
+[contributors-shield]: https://img.shields.io/github/contributors/BrettFlavin/Phaser-3-Halloween-Game
 
 ?style=plastic
-[contributors-url]: https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+[contributors-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 /graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BrettFlavin/Phaser-3-Halloween_Game
+[forks-shield]: https://img.shields.io/github/forks/BrettFlavin/Phaser-3-Halloween-Game
 ?style=plastic
-[forks-url]: https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+[forks-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 /network/members
-[stars-shield]: https://img.shields.io/github/stars/BrettFlavin/Phaser-3-Halloween_Game
+[stars-shield]: https://img.shields.io/github/stars/BrettFlavin/Phaser-3-Halloween-Game
 ?style=plastic
-[stars-url]: https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+[stars-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 /stargazers
-[issues-shield]: https://img.shields.io/github/issues/BrettFlavin/Phaser-3-Halloween_Game
+[issues-shield]: https://img.shields.io/github/issues/BrettFlavin/Phaser-3-Halloween-Game
 ?style=plastic
-[issues-url]: https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+[issues-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 /issues
-[license-shield]: https://img.shields.io/github/license/BrettFlavin/Phaser-3-Halloween_Game
+[license-shield]: https://img.shields.io/github/license/BrettFlavin/Phaser-3-Halloween-Game
 .svg?style=plastic
-[license-url]: https://github.com/BrettFlavin/Phaser-3-Halloween_Game
+[license-url]: https://github.com/BrettFlavin/Phaser-3-Halloween-Game
 /LICENSE.txt
