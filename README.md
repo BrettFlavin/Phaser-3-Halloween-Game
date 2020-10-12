@@ -77,17 +77,18 @@ This application was created in VS Code using HTML, JavaScript, and a little CSS
 
 ## Usage
 
-Here are some example screenshots of the application running on an Android device:
+The VS Code Live Server extension is used to launch and test the code quickly on a local development server. 
+Here are some example screenshots of the application running on a PC:
 
-![screenshot1](screenshot1.png)
+![Halloween Game title screenshot](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.PNG)
 
-![screenshot2](screenshot2.png)
+![Halloween Game screenshot1](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level1_screenshot.png)
 
-![screenshot3](screenshot3.png)
+![Halloween Game screenshot2](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level2_screenshot.PNG)
 
-![screenshot4](screenshot4.png)
+![Halloween Game screenshot3](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level3_screenshot.PNG)
 
-![screenshot5](screenshot5.png)
+![Halloween Game screenshot4](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level4_screenshot.PNG)
 
 <!------------->
 <!-- ROADMAP -->
