@@ -16,7 +16,7 @@ window.onload = function () {
         height: 1025,
         parent: 'phaser-game',
         backgroundColor: '#dc6900',
-        physics: { default: 'arcade', arcade: { gravity: { y: 0 }, debug: false } },
+        physics: { default: 'arcade', arcade: { gravity: { y: 0 }, debug: true } },
         scene: [TitleScene, Level1, Level2, Level3, Level4]
     };
     game = new Phaser.Game(config);
