@@ -57,9 +57,9 @@
 
 ## About The Project
 
-I decided to learn a little JavaScript, and what better way to do so then to make a little game!
+I decided it was time to learn a little JavaScript, and what better way to do so then to make a little game! 
 
-![example screenshot](example_screenshot.gif)
+![Halloween Game title screenshot](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.PNG)
 
 <!---------------->
 <!-- BUILT WITH -->
@@ -79,8 +79,6 @@ This application was created in VS Code using HTML, JavaScript, and a little CSS
 
 The VS Code Live Server extension is used to launch and test the code quickly on a local development server. 
 Here are some example screenshots of the application running on a PC:
-
-![Halloween Game title screenshot](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.PNG)
 
 ![Halloween Game screenshot1](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/level1_screenshot.png)
 
@@ -139,10 +137,8 @@ Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween-Game](https://g
 ## Acknowledgements
 
 - [othneildrew - readme template](https://github.com/othneildrew/Best-README-Template)
-- [](https://)
-- [](https://)
-- [](https://)
-- [](https://)
+- [CraftPix - free game assets!](https://craftpix.net/)
+- [GameDev Market - assets for indie developers!](https://www.gamedevmarket.net/)
 
 <!----------------------------->
 <!-- MARKDOWN LINKS & IMAGES -->
