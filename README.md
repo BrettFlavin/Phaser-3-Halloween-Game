@@ -11,21 +11,12 @@
 <!------------------>
 <!-- PROJECT LOGO -->
 <!------------------>
-<br />
-<p align="center">
-  <a href="https://github.com/BrettFlavin/Phaser-3-Halloween-Game
-  ">
-    <img src="CoronaLogo.png" alt="Logo" width="180" height="180" alt="project logo">
-  </a>
-
-  <h3 align="center">README</h3>
-
+  <h3 align="center">JavaScript HTML game using Phaser</h3>
   <p align="center">    
     <a href="https://github.com/BrettFlavin/Phaser-3-Halloween-Game/issues">Report Bug</a>
     ·
     <a href="https://github.com/BrettFlavin/Phaser-3-Halloween-Game/issues">Request Feature</a>
   </p>
-</p>
 
 <!----------------------->
 <!-- TABLE OF CONTENTS -->
