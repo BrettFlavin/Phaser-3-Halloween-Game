@@ -1,12 +1,3 @@
-<!-- INSTRUCTIONS - do a find a replace on "Phaser-3-Halloween-Game
-" and replace with current GitHub repository name. -->
-
-<!--
-*** Markdown "reference style" links used for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( )
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!--------------------->
 <!-- PROJECT SHIELDS -->
 <!--------------------->
@@ -57,8 +48,8 @@
 
 ## About The Project
 
-I decided it was time to learn a little JavaScript, and what better way to do so then to make a little game! 
-
+Just trying to learn a little JavaScript, and what better way to do so then to make a little game! I began to learn more about the Phaser open-source JavaScript game development framework developed by Richard Davey and Photonstorm. Phaser can be used to make HTML5 games for desktop and mobile using JavaScript or TypeScript. The only requirement for Phaser on the web is a browser that supports the <canvas> HTML tag. The game is rendered either in WebGL or a Canvas element, making it widely compatible with most web browsers and easily ported to other platforms as non-compiled apps. 
+  
 ![Halloween Game title screenshot](https://github.com/BrettFlavin/Phaser-3-Halloween-Game/blob/master/title_screenshot.PNG)
 
 <!---------------->
@@ -67,9 +58,10 @@ I decided it was time to learn a little JavaScript, and what better way to do so
 
 ### Built With
 
-This application was created in VS Code using HTML, JavaScript, and a little CSS.
+This application was created in VS Code using Phaser3, JavaScript, and HTML.
 
 - [VS Code](https://code.visualstudio.com/Download)
+- [Phaser 3](https://www.phaser.io/phaser3)
 
 <!-------------------->
 <!-- USAGE EXAMPLES -->
@@ -136,9 +128,9 @@ Project Link: [https://github.com/BrettFlavin/Phaser-3-Halloween-Game](https://g
 
 ## Acknowledgements
 
-- [othneildrew - readme template](https://github.com/othneildrew/Best-README-Template)
-- [CraftPix - free game assets!](https://craftpix.net/)
 - [GameDev Market - assets for indie developers!](https://www.gamedevmarket.net/)
+- [CraftPix - free game assets!](https://craftpix.net/)
+- [Phaser 3](https://www.phaser.io/phaser3)
 
 <!----------------------------->
 <!-- MARKDOWN LINKS & IMAGES -->
